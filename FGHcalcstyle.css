@@ -1,0 +1,56 @@
+#FGHtitle {
+  font-family: monospace;
+  color: white;
+}
+
+#FGHbody {
+  background-color: black;
+}
+
+#calculator {
+  font-family: monospace;
+  color: white;
+  font-size: 1.5rem;
+}
+
+#level {
+  border: 5px;
+  color: black;
+  cursor: pointer;
+  width: 50px;
+  padding: 3px;
+}
+
+#number {
+  border: 5px;
+  color: black;
+  cursor: pointer;
+  width: 50px;
+  padding: 3px;
+}
+
+#calcBut {
+  border-width: 3px;
+  color: white;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  font-family: monospace;
+  font-size: 0.5 rem;
+  display: block, black;
+  margin: 20px 0;
+  background-color: black;
+  border-color: white;
+}
+
+#output {
+  word-break: break-all;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+#P {
+  font-family: monospace;
+  font-size: 1rem;
+  color: white;
+}
